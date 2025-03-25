@@ -116,6 +116,10 @@ The bundler will:
 
 For issues or questions, please create an issue in the repository.
 
+## Contact Info
+
+Telegram Contact [@g0drlc](t.me/g0drlc)
+
 ## License
 
 MIT License 
